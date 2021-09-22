@@ -45,9 +45,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<mainClass>microservice.movies.movieratingservice.MovieRatingsServiceApplication</mainClass>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
